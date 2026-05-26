@@ -1,0 +1,6 @@
+sessions/
+logs/
+.env
+config.yaml
+hermes-agent/
+state.db

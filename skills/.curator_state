@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/Users/xu/.hermes/logs/curator/20260526-120320",
+  "last_run_at": "2026-05-26T12:03:20.106543+00:00",
+  "last_run_duration_seconds": 275.692264,
+  "last_run_summary": "auto: no changes; llm: ---\n\n## Human Summary\n\nConsolidated 17 agent-created skills down to 4: one umbrella (`agent-for-saas`) absorbs 13 siblings, plus 3 standalones retained at class level.\n\n**Two clusters identified and fully merged:**\n\n1. **Agent/SaaS Architec…\narchived 13 skill(s):\n  • agent-api-patterns → agent-for-saas\n  • agent-product-dev → agent-for-saas\n  • agent-service → agent-for-saas\n  • ai-agent-development → agent-for-saas\n  • building-domain-agents → agent-for-saas\n  • cdp-agent → agent-for-saas\n  • cdp-agent-build → agent-for-saas\n  • cdp-agent-dev → agent-for-saas\n  • cdp-agent-development → agent-for-saas\n  • cdp-agent-platform → agent-for-saas\n  … and 3 more\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin agent-for-saas",
+  "last_run_summary_shown_at": null,
+  "paused": false,
+  "run_count": 1
+}
